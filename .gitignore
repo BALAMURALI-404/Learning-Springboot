@@ -1,0 +1,21 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
+target/
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Java build
+*.class
+
+# Environment files
+.env
